@@ -1,0 +1,18 @@
+.prodImg {
+  width: 60px;
+  margin-right: 20px;
+}
+
+.imgSelected {
+  border: 2px solid green;
+  border-radius: 3px;
+}
+
+.time {
+  padding: 5px 20px;
+  border: none;
+  background-color: rgb(159, 158, 158);
+  color: white;
+  margin-right: 10px;
+  border-radius: 5px;
+}

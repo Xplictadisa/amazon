@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  max-width: 800px;
+}
+
+.preview {
+  width: 300px;
+  margin: 0;
+  padding: 0;
+}
